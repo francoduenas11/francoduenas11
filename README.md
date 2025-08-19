@@ -1,9 +1,20 @@
-# Rei Agustin
+# 👋 Rei Agustin
 
-Full-stack engineer focused on embedded systems and machine learning. Currently developing a robotics thesis at UP AI Research Lab.
+[![Website](https://img.shields.io/badge/site-reiagustin.dev-0081A3?style=for-the-badge&logo=googlechrome)](https://reiagustin.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reiagustin)
 
-- 🔭 Working on: SatEEElite CanSat (embedded firmware, telemetry)
-- 👨‍💻 Tech: TypeScript · Astro · Tailwind · Node.js · Embedded C · PyTorch
-- 📫 Contact: https://linkedin.com/in/reiagustin
+> Full-stack developer. Learning Java.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoduenas11&layout=compact)
+---
+
+## 🛠 Tech
+`JavaScript` `Python` `C` `AI / ML`
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=francoduenas11&layout=compact&theme=react">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=francoduenas11&show_icons=true&theme=react">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=francoduenas11&theme=react&hide_border=true&background=FFFFFF00">
+</p>
