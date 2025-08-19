@@ -5,12 +5,8 @@
 
 Full-stack developer. Learning Java.
 
-
-
 ## 🛠 Tech
 `JavaScript` `Python` `C` `AI / ML`
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
