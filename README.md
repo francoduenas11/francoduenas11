@@ -11,8 +11,8 @@ Full-stack developer. Learning Java.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=francoduenas11&layout=compact&theme=react">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=francoduenas11&hide_border=true&layout=compact&theme=react">
   <br>
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=francoduenas11&show_icons=true&theme=github_dark">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=francoduenas11&hide_border=true&show_icons=true&theme=github_dark">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=francoduenas11&theme=codeSTACKr&hide_border=true&background=FFFFFF00">
 </p>
