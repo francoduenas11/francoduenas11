@@ -9,9 +9,9 @@ Full-stack developer. Learning Java.
 ## 🛠 Tech
 `JavaScript` `Python` `C` `AI / ML`
 
-## 📊 GitHub Stats
+## 📊 GitHub
 <p align="center">
-  <img height="auto" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=francoduenas11&hide_border=true&layout=compact&theme=react">
-  <img height="140" width="auto" src ="https://github-readme-stats.vercel.app/api?username=francoduenas11&hide_border=true&show_icons=true&theme=github_dark">
-  <img height="auto" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=francoduenas11&theme=codeSTACKr&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=francoduenas11&show_icons=true&count_private=true&theme=react&hide_border=true&hide=issues,contribs">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=francoduenas11&layout=compact&hide_border=true&theme=github_dark&langs_count=6&hide=jupyter%20notebook,tex,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=francoduenas11&theme=codeSTACKr&hide_border=true">
 </p>
