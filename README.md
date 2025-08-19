@@ -1,6 +1,6 @@
 # 👋 Rei Agustin
 
-[![Website](https://img.shields.io/badge/site-reiagustin.dev-0081A3?style=for-the-badge&logo=googlechrome)](https://reiagustin.dev)
+[![Website](https://img.shields.io/badge/site-reiagustin.dev-0081A3?style=for-the-badge&logo=googlechrome)](https://reiagustin-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reiagustin)
 
 Full-stack developer. Learning Java.
